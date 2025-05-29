@@ -1,0 +1,3 @@
+# Theory
+
+Brief intro to structural number system...
